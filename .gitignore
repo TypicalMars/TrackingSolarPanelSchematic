@@ -1,0 +1,30 @@
+# KiCad backups & autosaves
+*-backups/
+*.bak
+*.bck
+*-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+\#auto_saved_files\#
+*~
+
+# Lock files (exist while a file is open)
+*.lck
+~*.lck
+
+# Caches
+fp-info-cache
+*.cache
+
+# Per-user view settings (layer visibility, open sheets, etc.)
+*.kicad_prl
+
+# Generated manufacturing output (see note below)
+gerbers/
+production/
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
