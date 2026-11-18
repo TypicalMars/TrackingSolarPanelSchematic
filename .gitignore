@@ -9,6 +9,10 @@ _autosave-*
 \#auto_saved_files\#
 *~
 
+# KiCad 10 local history (contains its own .git) & restore backups
+.history/
+_restore_backup_*/
+
 # Lock files (exist while a file is open)
 *.lck
 ~*.lck
