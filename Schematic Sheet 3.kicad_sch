@@ -2633,46 +2633,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "97da619b-3401-42cf-8287-f61ce420692b")
+			(uuid "97da619b-3401-42cf-8287-f61ce420692c")
 		)
 		(pin "5"
-			(uuid "7ab53b68-dfc5-496a-9ab0-0d0e70032f97")
+			(uuid "7ab53b68-dfc5-496a-9ab0-0d0e70032f98")
 		)
 		(pin "6"
-			(uuid "c77f207f-7228-433b-a77f-10841c8a924f")
+			(uuid "c77f207f-7228-433b-a77f-10841c8a9250")
 		)
 		(pin "8"
-			(uuid "1fba6c2d-f4f6-4c1b-aefa-94b0297edb40")
+			(uuid "1fba6c2d-f4f6-4c1b-aefa-94b0297edb41")
 		)
 		(pin "12"
-			(uuid "3e3fb9bb-c353-4e32-a9c8-51b0bf2612ab")
+			(uuid "3e3fb9bb-c353-4e32-a9c8-51b0bf2612ac")
 		)
 		(pin "1"
-			(uuid "6a3cf473-9346-4e4b-85d9-3dcbd1c13d81")
+			(uuid "6a3cf473-9346-4e4b-85d9-3dcbd1c13d82")
 		)
 		(pin "7"
-			(uuid "df53ca54-5b2c-4194-9ecf-8b5f3522353b")
+			(uuid "df53ca54-5b2c-4194-9ecf-8b5f3522353c")
 		)
 		(pin "9"
-			(uuid "6290a528-2b60-4754-a9f5-9d3c5c0c6750")
+			(uuid "6290a528-2b60-4754-a9f5-9d3c5c0c6751")
 		)
 		(pin "3"
-			(uuid "8dbe1688-dcbf-496a-acd2-4956a380ff8f")
+			(uuid "8dbe1688-dcbf-496a-acd2-4956a380ff90")
 		)
 		(pin "2"
-			(uuid "fe48656c-ed27-4ae0-802d-7cb5ab38150b")
+			(uuid "fe48656c-ed27-4ae0-802d-7cb5ab38150c")
 		)
 		(pin "10"
-			(uuid "4790bc03-c87d-4a15-9abf-1df1e330b946")
+			(uuid "4790bc03-c87d-4a15-9abf-1df1e330b947")
 		)
 		(pin "4"
-			(uuid "1124f4aa-b571-4427-842f-1baaa6ff40fa")
+			(uuid "1124f4aa-b571-4427-842f-1baaa6ff40fb")
 		)
 		(pin "11"
-			(uuid "78b45713-b845-4ef9-a207-9580d02b7372")
+			(uuid "78b45713-b845-4ef9-a207-9580d02b7373")
 		)
 		(pin "15"
-			(uuid "962c3a99-9cef-4539-ab3f-2aa9b6e83d97")
+			(uuid "962c3a99-9cef-4539-ab3f-2aa9b6e83d98")
 		)
 		(instances
 			(project "SolarPanelTracker"
